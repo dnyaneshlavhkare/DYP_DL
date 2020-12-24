@@ -1,0 +1,36 @@
+sudo apt-get update ----update installed application
+sudo apt-get upgrade ---upgrade latest version of OS.
+------------------------------------------------------
+pip install opencv-python - 2.7 python
+
+pip3 install opencv-python -3.0 or latest python
+-------------------------------------------------------
+Dependancies:
+sudo apt-get install build-essential 
+sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+Opencv:
+pip install opencv-python
+--------------------------------------------------------
+Tensorflow:
+pip install tensorflow
+pip install tensorflow ==1.15 #CPU
+pip install tensorflow-gpu ==1.15  #GPU
+---------------------------------------------------------
+Keras:
+pip install keras
+---------------------------------------------------------
+Theano:
+pip install theano
+---------------------------------------------------------
+pip install pandas
+----------------------------------------------------------
+pip install matplotlib
+----------------------------------------------------------
+pip install numpy
+----------------------------------------------------------
+pip install scipy
+----------------------------------------------------------
+pip install -U scikit-learn
+----------------------------------------------------------
+pip install seaborninstall -U scikit-learn
+-----------------------------------------------------------
